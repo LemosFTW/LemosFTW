@@ -24,16 +24,16 @@
 Check out my projects organized by category:
 <div>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Backend-InvoiceReader\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Invoice-Reader\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Backend-InvoiceReader\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/LemosFTW/Backend-InvoiceReader)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Invoice-Reader\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/LemosFTW/Invoice-Reader)
 
 <br/>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Freecol-New-Features\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Freecol-New-Features\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/LemosFTW/Freecol-New-Features)
 
 <br/>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=NextJs_Read_Image_Content\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=NextJs_Read_Image_Content\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/LemosFTW/NextJs_Read_Image_Content)
 
   
 </div>
