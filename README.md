@@ -30,9 +30,6 @@ Check out my projects organized by category:
 <br/>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=Freecol-New-Features\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/LemosFTW/Freecol-New-Features)
-
-<br/>
-
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LemosFTW\&repo=NextJs_Read_Image_Content\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/LemosFTW/NextJs_Read_Image_Content)
 
   
@@ -40,15 +37,9 @@ Check out my projects organized by category:
 
 
 ### 🚨 STATS
-
-
 ![Lemos's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemosFTW&show_icons=true&theme=dracula)
-
 <div style="width: 200px; display: inline-block">
 <a href="https://github.com/LemosFTW/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemosFTW&langs_count=8&theme=dracula" alt="Top Langs" />
 </a>
-</div>
-
-<br/>
-  
+</div>  
